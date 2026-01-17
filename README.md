@@ -5,11 +5,6 @@ I enjoy working with data — from **cleaning & analyzing** to **building predic
 
 ---
 
-### 🔹 Internship  
-- **Data Science Intern** at *YHills Edutech Pvt. Ltd.* – built a **House Price Prediction Model** using Python & ML.  
-
----
-
 ### 🔹 Projects  
 - 📊 **Walmart Sales Forecasting & Analysis** – (Python, SQL, ML, Visualization)  
 - 🔮 **House Price Prediction** – (Regression, EDA, Pandas, Scikit-learn)  
