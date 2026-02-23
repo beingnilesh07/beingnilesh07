@@ -6,8 +6,8 @@ I enjoy working with data — from **cleaning & analyzing** to **building predic
 ---
 
 ### 🔹 Projects  
-- 📊 **Walmart Sales Forecasting & Analysis** – (Python, SQL, ML, Visualization)  
-- 🔮 **House Price Prediction** – (Regression, EDA, Pandas, Scikit-learn)  
+- 📊 **Walmart Sales Prediction & Analysis** – (Python, ML, Visualization)  
+- 🔮 **Bike Rental Sharing Demand Prediction** -(Python, ML, Deployment, Visualization)
 
 ---
 
