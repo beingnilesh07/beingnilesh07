@@ -4,6 +4,19 @@
 
 I'm passionate about solving real-world problems using **Data Science, Machine Learning, and AI**. I enjoy building end-to-end applications—from data preprocessing and model development to deployment and visualization.
 
+--- 
+
+## 💼 Experience 
+### **Data Science Intern | AI-Variant** 
+**Duration:** 6 Months
+
+- Worked on real-world Data Science and Machine Learning projects.
+- Built an end-to-end **Bike Rental Sharing Demand Prediction** system.
+- Performed data cleaning, feature engineering, exploratory data analysis (EDA), and model evaluation.
+- Trained and compared multiple Machine Learning models to improve prediction accuracy.
+- Developed and deployed the project using **Streamlit** for real-time predictions.
+- Gained hands-on experience with Python, SQL, Pandas, NumPy, Scikit-learn, data visualization, and model deployment.
+
 ---
 
 ## 🚀 Featured Projects
